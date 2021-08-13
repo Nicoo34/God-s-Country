@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CMapData>
+  <name>0xE3435341</name>
+  <parent/>
+  <flags value="1"/>
+  <contentFlags value="1"/>
+  <streamingExtentsMin x="-5120.91600000" y="-4127.36500000" z="-1516.72400000"/>
+  <streamingExtentsMax x="-2120.91600000" y="-1127.36500000" z="1483.27600000"/>
+  <entitiesExtentsMin x="-3625.91600000" y="-2632.36500000" z="-16.72415000"/>
+  <entitiesExtentsMax x="-3615.91600000" y="-2622.36500000" z="-8.72414800"/>
+  <entities>
+  </entities>
+  <containerLods/>
+  <boxOccluders/>
+  <occludeModels/>
+  <physicsDictionaries/>
+  <instancedData>
+    <ImapLink/>
+    <PropInstanceList/>
+    <GrassInstanceList/>
+  </instancedData>
+  <timeCycleModifiers/>
+  <UNK_MEMBER_0x8471928B/>
+  <UNK_MEMBER_0x4D4A0635/>
+  <carGenerators/>
+  <LODLightsSOA>
+    <direction/>
+    <falloff/>
+    <falloffExponent/>
+    <timeAndStateFlags/>
+    <hash/>
+    <coneInnerAngle/>
+    <coneOuterAngleOrCapExt/>
+    <coronaIntensity/>
+    <UNK_MEMBER_0xFFD167D6/>
+  </LODLightsSOA>
+  <DistantLODLightsSOA>
+    <position/>
+    <UNK_MEMBER_0x94720DEC/>
+    <intensity/>
+    <numStreetLights value="0"/>
+    <category value="0"/>
+    <UNK_MEMBER_0xFFEC781A/>
+    <hash/>
+  </DistantLODLightsSOA>
+  <block>
+    <version value="0"/>
+    <flags value="0"/>
+    <name/>
+    <exportedBy/>
+    <owner/>
+    <time/>
+  </block>
+</CMapData>

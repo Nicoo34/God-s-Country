@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<CMapData>
+	<flags value="2"/>
+	<contentFlags value="65"/>
+	<streamingExtentsMin x="-4093.279053" y="-3052.617188" z="-414.426085"/>
+	<streamingExtentsMax x="-3291.404053" y="-2251.035645" z="385.629909"/>
+	<entitiesExtentsMin x="-3693.279053" y="-2652.617188" z="-14.426085"/>
+	<entitiesExtentsMax x="-3691.404053" y="-2651.035645" z="-14.370091"/>
+	<entities>
+	</entities>
+</CMapData>

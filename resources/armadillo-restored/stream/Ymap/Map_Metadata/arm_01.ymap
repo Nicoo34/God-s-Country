@@ -1,0 +1,6498 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CMapData>
+  <name>ARM_01</name>
+  <parent>RSTU_96_99_AREA_LOD</parent>
+  <flags value="2"/>
+  <contentFlags value="50"/>
+  <streamingExtentsMin x="-4485.37000000" y="-3337.97500000" z="-760.42830000"/>
+  <streamingExtentsMax x="-2985.37000000" y="-1837.97500000" z="739.57170000"/>
+  <entitiesExtentsMin x="-3758.85100000" y="-2627.12400000" z="-15.31868000"/>
+  <entitiesExtentsMax x="-3720.62500000" y="-2551.83000000" z="-5.60077200"/>
+  <entities>
+    <Item type="CEntityDef">
+      <archetypeName>0x0EA710A6</archetypeName>
+      <flags value="1572872"/>
+      <id value="0x4DEC38F326ACEF2F"/>
+      <position x="-3734.49300000" y="-2607.88700000" z="-11.11066000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="10"/>
+      <lodDist value="600.00000000"/>
+      <childLodDist value="250.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_SLOD1</lodLevel>
+      <numChildren value="41"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <UNK_MEMBER_0xFFEC781A value="0"/>
+      <tintValue value="0"/>
+      <UNK_MEMBER_0x0DC5F270 value="255"/>
+      <UNK_MEMBER_0x540CA436 value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>ARM_01__ARM01_COMBO_SLOD</archetypeName>
+      <flags value="68681728"/>
+      <id value="0x4B8CCBAF6697CD6A"/>
+      <position x="-3735.36900000" y="-2587.97500000" z="-10.42828000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="750.00000000"/>
+      <childLodDist value="400.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_SLOD1</lodLevel>
+      <numChildren value="4"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <UNK_MEMBER_0xFFEC781A value="0"/>
+      <tintValue value="0"/>
+      <UNK_MEMBER_0x0DC5F270 value="255"/>
+      <UNK_MEMBER_0x540CA436 value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>0xD5984A84</archetypeName>
+      <flags value="1572928"/>
+      <id value="0x43ADB2CF4139C776"/>
+      <position x="-3729.48300000" y="-2604.51100000" z="-111.74439000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="0"/>
+      <lodDist value="250.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_LOD</lodLevel>
+      <numChildren value="1"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <UNK_MEMBER_0xFFEC781A value="0"/>
+      <tintValue value="0"/>
+      <UNK_MEMBER_0x0DC5F270 value="255"/>
+      <UNK_MEMBER_0x540CA436 value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>0xFACCD493</archetypeName>
+      <flags value="1572864"/>
+      <id value="0x4ED6CB38DBCA4C10"/>
+      <position x="-3736.26900000" y="-2611.64800000" z="-13.70179000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="0"/>
+      <lodDist value="250.00000000"/>
+      <childLodDist value="200.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_LOD</lodLevel>
+      <numChildren value="2"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <UNK_MEMBER_0xFFEC781A value="0"/>
+      <tintValue value="0"/>
+      <UNK_MEMBER_0x0DC5F270 value="255"/>
+      <UNK_MEMBER_0x540CA436 value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>0x5D513995</archetypeName>
+      <flags value="1572864"/>
+      <id value="0x41D0E18E956696F0"/>
+      <position x="-3727.11300000" y="-2615.64600000" z="-14.10761000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="0"/>
+      <lodDist value="250.00000000"/>
+      <childLodDist value="100.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_LOD</lodLevel>
+      <numChildren value="1"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <UNK_MEMBER_0xFFEC781A value="0"/>
+      <tintValue value="0"/>
+      <UNK_MEMBER_0x0DC5F270 value="255"/>
+      <UNK_MEMBER_0x540CA436 value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>0x00FAEEBB</archetypeName>
+      <flags value="1572864"/>
+      <id value="0x4BACD982E2D54542"/>
+      <position x="-3734.88800000" y="-2623.17000000" z="-13.72171000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="0"/>
+      <lodDist value="250.00000000"/>
+      <childLodDist value="91.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_LOD</lodLevel>
+      <numChildren value="1"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <UNK_MEMBER_0xFFEC781A value="0"/>
+      <tintValue value="0"/>
+      <UNK_MEMBER_0x0DC5F270 value="255"/>
+      <UNK_MEMBER_0x540CA436 value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>0x9BCD9D76</archetypeName>
+      <flags value="1572864"/>
+      <id value="0x4149DCAEAE6FBCF1"/>
+      <position x="-3735.00800000" y="-2567.73300000" z="-14.84997000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="0"/>
+      <lodDist value="250.00000000"/>
+      <childLodDist value="100.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_LOD</lodLevel>
+      <numChildren value="1"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <UNK_MEMBER_0xFFEC781A value="0"/>
+      <tintValue value="0"/>
+      <UNK_MEMBER_0x0DC5F270 value="255"/>
+      <UNK_MEMBER_0x540CA436 value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>0x62B3A506</archetypeName>
+      <flags value="1572864"/>
+      <id value="0x4ACCC6F4C9DA462D"/>
+      <position x="-3739.71800000" y="-2563.38000000" z="-14.55001000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="0"/>
+      <lodDist value="250.00000000"/>
+      <childLodDist value="68.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_LOD</lodLevel>
+      <numChildren value="1"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <UNK_MEMBER_0xFFEC781A value="0"/>
+      <tintValue value="0"/>
+      <UNK_MEMBER_0x0DC5F270 value="255"/>
+      <UNK_MEMBER_0x540CA436 value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>0xC5C15BD4</archetypeName>
+      <flags value="1572864"/>
+      <id value="0x434F4E325F150F24"/>
+      <position x="-3734.98700000" y="-2618.93600000" z="-13.62382000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="0"/>
+      <lodDist value="250.00000000"/>
+      <childLodDist value="124.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_LOD</lodLevel>
+      <numChildren value="1"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <UNK_MEMBER_0xFFEC781A value="0"/>
+      <tintValue value="0"/>
+      <UNK_MEMBER_0x0DC5F270 value="255"/>
+      <UNK_MEMBER_0x540CA436 value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>0x0B419A0A</archetypeName>
+      <flags value="1572864"/>
+      <id value="0x4EAD91F88E185514"/>
+      <position x="-3736.89000000" y="-2624.27900000" z="-13.78192000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="0"/>
+      <lodDist value="250.00000000"/>
+      <childLodDist value="91.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_LOD</lodLevel>
+      <numChildren value="1"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <UNK_MEMBER_0xFFEC781A value="0"/>
+      <tintValue value="0"/>
+      <UNK_MEMBER_0x0DC5F270 value="255"/>
+      <UNK_MEMBER_0x540CA436 value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>0x24E7E6EA</archetypeName>
+      <flags value="1572864"/>
+      <id value="0x4E7F5A3FEF9EA7D3"/>
+      <position x="-3728.74800000" y="-2606.38400000" z="-13.58668000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="0"/>
+      <lodDist value="250.00000000"/>
+      <childLodDist value="112.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_LOD</lodLevel>
+      <numChildren value="2"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <UNK_MEMBER_0xFFEC781A value="0"/>
+      <tintValue value="0"/>
+      <UNK_MEMBER_0x0DC5F270 value="255"/>
+      <UNK_MEMBER_0x540CA436 value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>0x49A832C6</archetypeName>
+      <flags value="1572864"/>
+      <id value="0x45A0C9219EDBF4B0"/>
+      <position x="-3727.31800000" y="-2619.24400000" z="-13.91565000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="0"/>
+      <lodDist value="250.00000000"/>
+      <childLodDist value="122.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_LOD</lodLevel>
+      <numChildren value="5"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <UNK_MEMBER_0xFFEC781A value="0"/>
+      <tintValue value="0"/>
+      <UNK_MEMBER_0x0DC5F270 value="255"/>
+      <UNK_MEMBER_0x540CA436 value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>0xEC4E9D45</archetypeName>
+      <flags value="1572864"/>
+      <id value="0x4CBA9AF7CFE44EF7"/>
+      <position x="-3725.12700000" y="-2607.63500000" z="-13.43349000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="0"/>
+      <lodDist value="250.00000000"/>
+      <childLodDist value="184.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_LOD</lodLevel>
+      <numChildren value="2"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <UNK_MEMBER_0xFFEC781A value="0"/>
+      <tintValue value="0"/>
+      <UNK_MEMBER_0x0DC5F270 value="255"/>
+      <UNK_MEMBER_0x540CA436 value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>0x59EE7EBD</archetypeName>
+      <flags value="1572864"/>
+      <id value="0x4662AC63EA37CB4F"/>
+      <position x="-3740.00400000" y="-2600.12500000" z="-13.67511000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="0"/>
+      <lodDist value="250.00000000"/>
+      <childLodDist value="200.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_LOD</lodLevel>
+      <numChildren value="1"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <UNK_MEMBER_0xFFEC781A value="0"/>
+      <tintValue value="0"/>
+      <UNK_MEMBER_0x0DC5F270 value="255"/>
+      <UNK_MEMBER_0x540CA436 value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>0xCA7D63BD</archetypeName>
+      <flags value="1572864"/>
+      <id value="0x4B4DC70857AA6B75"/>
+      <position x="-3741.92500000" y="-2603.40400000" z="-14.08778000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="0"/>
+      <lodDist value="250.00000000"/>
+      <childLodDist value="100.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_LOD</lodLevel>
+      <numChildren value="7"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <UNK_MEMBER_0xFFEC781A value="0"/>
+      <tintValue value="0"/>
+      <UNK_MEMBER_0x0DC5F270 value="255"/>
+      <UNK_MEMBER_0x540CA436 value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>0x943B5A29</archetypeName>
+      <flags value="1572864"/>
+      <id value="0x48DD0B75E73DC03A"/>
+      <position x="-3740.48200000" y="-2587.98400000" z="-14.58953000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="0"/>
+      <lodDist value="250.00000000"/>
+      <childLodDist value="61.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_LOD</lodLevel>
+      <numChildren value="1"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <UNK_MEMBER_0xFFEC781A value="0"/>
+      <tintValue value="0"/>
+      <UNK_MEMBER_0x0DC5F270 value="255"/>
+      <UNK_MEMBER_0x540CA436 value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>0x61225407</archetypeName>
+      <flags value="1572864"/>
+      <id value="0x42A4E716242C75C3"/>
+      <position x="-3741.56300000" y="-2605.39700000" z="-13.76652000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="0"/>
+      <lodDist value="250.00000000"/>
+      <childLodDist value="200.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_LOD</lodLevel>
+      <numChildren value="5"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <UNK_MEMBER_0xFFEC781A value="0"/>
+      <tintValue value="0"/>
+      <UNK_MEMBER_0x0DC5F270 value="255"/>
+      <UNK_MEMBER_0x540CA436 value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>0x2A0710FC</archetypeName>
+      <flags value="1572864"/>
+      <id value="0x4C24099DC6E70C44"/>
+      <position x="-3738.77100000" y="-2609.79900000" z="-13.73911000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="0"/>
+      <lodDist value="250.00000000"/>
+      <childLodDist value="200.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_LOD</lodLevel>
+      <numChildren value="1"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <UNK_MEMBER_0xFFEC781A value="0"/>
+      <tintValue value="0"/>
+      <UNK_MEMBER_0x0DC5F270 value="255"/>
+      <UNK_MEMBER_0x540CA436 value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>0x9E548A38</archetypeName>
+      <flags value="1572864"/>
+      <id value="0x4ED2455EA9577E08"/>
+      <position x="-3739.70600000" y="-2563.42300000" z="-13.84951000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="0"/>
+      <lodDist value="250.00000000"/>
+      <childLodDist value="66.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_LOD</lodLevel>
+      <numChildren value="1"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <UNK_MEMBER_0xFFEC781A value="0"/>
+      <tintValue value="0"/>
+      <UNK_MEMBER_0x0DC5F270 value="255"/>
+      <UNK_MEMBER_0x540CA436 value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>0x8956DA2B</archetypeName>
+      <flags value="1572864"/>
+      <id value="0x4A5BA1B9A280A642"/>
+      <position x="-3739.09800000" y="-2584.11300000" z="-14.73925000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="0"/>
+      <lodDist value="250.00000000"/>
+      <childLodDist value="100.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_LOD</lodLevel>
+      <numChildren value="2"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <UNK_MEMBER_0xFFEC781A value="0"/>
+      <tintValue value="0"/>
+      <UNK_MEMBER_0x0DC5F270 value="255"/>
+      <UNK_MEMBER_0x540CA436 value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>0x135D055B</archetypeName>
+      <flags value="1572864"/>
+      <id value="0x4C6CD88BC5A0B250"/>
+      <position x="-3741.81400000" y="-2566.62300000" z="-13.40856000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="0"/>
+      <lodDist value="250.00000000"/>
+      <childLodDist value="200.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_LOD</lodLevel>
+      <numChildren value="1"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <UNK_MEMBER_0xFFEC781A value="0"/>
+      <tintValue value="0"/>
+      <UNK_MEMBER_0x0DC5F270 value="255"/>
+      <UNK_MEMBER_0x540CA436 value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>0xA60A03E0</archetypeName>
+      <flags value="1572864"/>
+      <id value="0x487A301A3BD1514E"/>
+      <position x="-3730.10000000" y="-2592.25000000" z="-13.82306000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="0"/>
+      <lodDist value="250.00000000"/>
+      <childLodDist value="100.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_LOD</lodLevel>
+      <numChildren value="1"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <UNK_MEMBER_0xFFEC781A value="0"/>
+      <tintValue value="0"/>
+      <UNK_MEMBER_0x0DC5F270 value="255"/>
+      <UNK_MEMBER_0x540CA436 value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>0xA370140A</archetypeName>
+      <flags value="1572864"/>
+      <id value="0x45F3AD5439E194E5"/>
+      <position x="-3728.82100000" y="-2592.91800000" z="-14.04769000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="0"/>
+      <lodDist value="250.00000000"/>
+      <childLodDist value="100.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_LOD</lodLevel>
+      <numChildren value="2"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <UNK_MEMBER_0xFFEC781A value="0"/>
+      <tintValue value="0"/>
+      <UNK_MEMBER_0x0DC5F270 value="255"/>
+      <UNK_MEMBER_0x540CA436 value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>0x8E1C4093</archetypeName>
+      <flags value="1572864"/>
+      <id value="0x481A8D8ACBAE7801"/>
+      <position x="-3738.74200000" y="-2600.67700000" z="-13.87393000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="0"/>
+      <lodDist value="250.00000000"/>
+      <childLodDist value="124.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_LOD</lodLevel>
+      <numChildren value="1"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <UNK_MEMBER_0xFFEC781A value="0"/>
+      <tintValue value="0"/>
+      <UNK_MEMBER_0x0DC5F270 value="255"/>
+      <UNK_MEMBER_0x540CA436 value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>0x3225176D</archetypeName>
+      <flags value="1572864"/>
+      <id value="0x4215A535D6D9EEB0"/>
+      <position x="-3739.42500000" y="-2603.74900000" z="-13.78236000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="0"/>
+      <lodDist value="250.00000000"/>
+      <childLodDist value="200.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_LOD</lodLevel>
+      <numChildren value="1"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <UNK_MEMBER_0xFFEC781A value="0"/>
+      <tintValue value="0"/>
+      <UNK_MEMBER_0x0DC5F270 value="255"/>
+      <UNK_MEMBER_0x540CA436 value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>0x3CDB5341</archetypeName>
+      <flags value="1572864"/>
+      <id value="0x40154927402CFDF1"/>
+      <position x="-3740.18800000" y="-2604.13500000" z="-13.67411000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="0"/>
+      <lodDist value="250.00000000"/>
+      <childLodDist value="200.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_LOD</lodLevel>
+      <numChildren value="1"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <UNK_MEMBER_0xFFEC781A value="0"/>
+      <tintValue value="0"/>
+      <UNK_MEMBER_0x0DC5F270 value="255"/>
+      <UNK_MEMBER_0x540CA436 value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>0xCBFE27AB</archetypeName>
+      <flags value="1572864"/>
+      <id value="0x47BFE6BC2494BD5C"/>
+      <position x="-3730.34600000" y="-2604.70100000" z="-11.10272000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="0"/>
+      <lodDist value="250.00000000"/>
+      <childLodDist value="125.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_LOD</lodLevel>
+      <numChildren value="2"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <UNK_MEMBER_0xFFEC781A value="0"/>
+      <tintValue value="0"/>
+      <UNK_MEMBER_0x0DC5F270 value="255"/>
+      <UNK_MEMBER_0x540CA436 value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>0x6B49697F</archetypeName>
+      <flags value="1572864"/>
+      <id value="0x4AF9CA117BCCF73E"/>
+      <position x="-3736.32800000" y="-2607.88700000" z="-14.69598000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="0"/>
+      <lodDist value="250.00000000"/>
+      <childLodDist value="70.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_LOD</lodLevel>
+      <numChildren value="1"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <UNK_MEMBER_0xFFEC781A value="0"/>
+      <tintValue value="0"/>
+      <UNK_MEMBER_0x0DC5F270 value="255"/>
+      <UNK_MEMBER_0x540CA436 value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>0x711B524C</archetypeName>
+      <flags value="1572864"/>
+      <id value="0x4CE8834D739A8174"/>
+      <position x="-3742.51700000" y="-2560.68900000" z="-13.77706000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="0"/>
+      <lodDist value="250.00000000"/>
+      <childLodDist value="100.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_LOD</lodLevel>
+      <numChildren value="1"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <UNK_MEMBER_0xFFEC781A value="0"/>
+      <tintValue value="0"/>
+      <UNK_MEMBER_0x0DC5F270 value="255"/>
+      <UNK_MEMBER_0x540CA436 value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>0x3F36A52A</archetypeName>
+      <flags value="68681728"/>
+      <id value="0x4E28585CAA64059E"/>
+      <position x="-3726.34600000" y="-2568.63800000" z="-15.01993000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="1"/>
+      <lodDist value="400.00000000"/>
+      <childLodDist value="80.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_LOD</lodLevel>
+      <numChildren value="1"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <UNK_MEMBER_0xFFEC781A value="0"/>
+      <tintValue value="0"/>
+      <UNK_MEMBER_0x0DC5F270 value="255"/>
+      <UNK_MEMBER_0x540CA436 value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>0xE389A18A</archetypeName>
+      <flags value="68681728"/>
+      <id value="0x49CD58F7E8FE6C3A"/>
+      <position x="-3735.23900000" y="-2570.75300000" z="-14.29941000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="1"/>
+      <lodDist value="400.00000000"/>
+      <childLodDist value="108.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_LOD</lodLevel>
+      <numChildren value="47"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <UNK_MEMBER_0xFFEC781A value="0"/>
+      <tintValue value="0"/>
+      <UNK_MEMBER_0x0DC5F270 value="255"/>
+      <UNK_MEMBER_0x540CA436 value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>0x50D987CE</archetypeName>
+      <flags value="68681728"/>
+      <id value="0x40B85CF758DCE05A"/>
+      <position x="-3726.51900000" y="-2578.92600000" z="-14.61210000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="1"/>
+      <lodDist value="400.00000000"/>
+      <childLodDist value="82.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_LOD</lodLevel>
+      <numChildren value="2"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <UNK_MEMBER_0xFFEC781A value="0"/>
+      <tintValue value="0"/>
+      <UNK_MEMBER_0x0DC5F270 value="255"/>
+      <UNK_MEMBER_0x540CA436 value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>0xDACF41A6</archetypeName>
+      <flags value="68681728"/>
+      <id value="0x444AEDEE2CDD4447"/>
+      <position x="-3741.08400000" y="-2619.73000000" z="-9.91101800"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="1"/>
+      <lodDist value="400.00000000"/>
+      <childLodDist value="250.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_LOD</lodLevel>
+      <numChildren value="1"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <UNK_MEMBER_0xFFEC781A value="0"/>
+      <tintValue value="0"/>
+      <UNK_MEMBER_0x0DC5F270 value="255"/>
+      <UNK_MEMBER_0x540CA436 value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>0xB0993C65</archetypeName>
+      <flags value="1572864"/>
+      <id value="0x41CA29836221AF84"/>
+      <position x="-3738.56800000" y="-2594.46800000" z="-13.82183000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="0"/>
+      <lodDist value="250.00000000"/>
+      <childLodDist value="200.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_LOD</lodLevel>
+      <numChildren value="2"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <UNK_MEMBER_0xFFEC781A value="0"/>
+      <tintValue value="0"/>
+      <UNK_MEMBER_0x0DC5F270 value="255"/>
+      <UNK_MEMBER_0x540CA436 value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>0x499BF1CB</archetypeName>
+      <flags value="1572864"/>
+      <id value="0x4118D34A4CF0DC0D"/>
+      <position x="-3730.12300000" y="-2570.68600000" z="-14.44280000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="0"/>
+      <lodDist value="250.00000000"/>
+      <childLodDist value="35.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_LOD</lodLevel>
+      <numChildren value="1"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <UNK_MEMBER_0xFFEC781A value="0"/>
+      <tintValue value="0"/>
+      <UNK_MEMBER_0x0DC5F270 value="255"/>
+      <UNK_MEMBER_0x540CA436 value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>0xD7291911</archetypeName>
+      <flags value="1572864"/>
+      <id value="0x4C8B2807C61D71A9"/>
+      <position x="-3727.96600000" y="-2621.39100000" z="-13.14373000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="0"/>
+      <lodDist value="250.00000000"/>
+      <childLodDist value="190.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_LOD</lodLevel>
+      <numChildren value="1"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <UNK_MEMBER_0xFFEC781A value="0"/>
+      <tintValue value="0"/>
+      <UNK_MEMBER_0x0DC5F270 value="255"/>
+      <UNK_MEMBER_0x540CA436 value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>0x223F2E71</archetypeName>
+      <flags value="1572864"/>
+      <id value="0x4DD6C72DFF2637A0"/>
+      <position x="-3729.81700000" y="-2594.02100000" z="-13.93219000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="0"/>
+      <lodDist value="250.00000000"/>
+      <childLodDist value="100.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_LOD</lodLevel>
+      <numChildren value="1"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <UNK_MEMBER_0xFFEC781A value="0"/>
+      <tintValue value="0"/>
+      <UNK_MEMBER_0x0DC5F270 value="255"/>
+      <UNK_MEMBER_0x540CA436 value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>0x5BD47EA9</archetypeName>
+      <flags value="1572864"/>
+      <id value="0x46ACD649F34F7CFC"/>
+      <position x="-3731.29800000" y="-2620.57800000" z="-13.31356000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="0"/>
+      <lodDist value="250.00000000"/>
+      <childLodDist value="124.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_LOD</lodLevel>
+      <numChildren value="1"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <UNK_MEMBER_0xFFEC781A value="0"/>
+      <tintValue value="0"/>
+      <UNK_MEMBER_0x0DC5F270 value="255"/>
+      <UNK_MEMBER_0x540CA436 value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>0xF357C06B</archetypeName>
+      <flags value="1572864"/>
+      <id value="0x49A32F9333FB9D96"/>
+      <position x="-3729.64300000" y="-2615.56100000" z="-14.13343000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="0"/>
+      <lodDist value="250.00000000"/>
+      <childLodDist value="100.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_LOD</lodLevel>
+      <numChildren value="1"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <UNK_MEMBER_0xFFEC781A value="0"/>
+      <tintValue value="0"/>
+      <UNK_MEMBER_0x0DC5F270 value="255"/>
+      <UNK_MEMBER_0x540CA436 value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>0x93CD0F49</archetypeName>
+      <flags value="1572864"/>
+      <id value="0x417C83576F988105"/>
+      <position x="-3730.60700000" y="-2614.06900000" z="-13.90262000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="0"/>
+      <lodDist value="250.00000000"/>
+      <childLodDist value="85.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_LOD</lodLevel>
+      <numChildren value="1"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <UNK_MEMBER_0xFFEC781A value="0"/>
+      <tintValue value="0"/>
+      <UNK_MEMBER_0x0DC5F270 value="255"/>
+      <UNK_MEMBER_0x540CA436 value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>0x1957E335</archetypeName>
+      <flags value="1572864"/>
+      <id value="0x46FF123165E22A77"/>
+      <position x="-3733.93600000" y="-2554.64400000" z="-14.01894000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="0"/>
+      <lodDist value="250.00000000"/>
+      <childLodDist value="160.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_LOD</lodLevel>
+      <numChildren value="1"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <UNK_MEMBER_0xFFEC781A value="0"/>
+      <tintValue value="0"/>
+      <UNK_MEMBER_0x0DC5F270 value="255"/>
+      <UNK_MEMBER_0x540CA436 value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>0x391D763B</archetypeName>
+      <flags value="1572864"/>
+      <id value="0x4565A46B06518813"/>
+      <position x="-3737.74600000" y="-2570.58300000" z="-14.07399000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="0"/>
+      <lodDist value="250.00000000"/>
+      <childLodDist value="100.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_LOD</lodLevel>
+      <numChildren value="1"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <UNK_MEMBER_0xFFEC781A value="0"/>
+      <tintValue value="0"/>
+      <UNK_MEMBER_0x0DC5F270 value="255"/>
+      <UNK_MEMBER_0x540CA436 value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>0x8DC5E420</archetypeName>
+      <flags value="1572864"/>
+      <id value="0x4961754F420782FA"/>
+      <position x="-3741.86400000" y="-2577.79000000" z="-14.79389000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="0"/>
+      <lodDist value="250.00000000"/>
+      <childLodDist value="62.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_LOD</lodLevel>
+      <numChildren value="2"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <UNK_MEMBER_0xFFEC781A value="0"/>
+      <tintValue value="0"/>
+      <UNK_MEMBER_0x0DC5F270 value="255"/>
+      <UNK_MEMBER_0x540CA436 value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>0x2C2E6980</archetypeName>
+      <flags value="1572864"/>
+      <id value="0x4E561B85604F0D38"/>
+      <position x="-3736.94800000" y="-2579.81900000" z="-14.75992000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="0"/>
+      <lodDist value="250.00000000"/>
+      <childLodDist value="62.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_LOD</lodLevel>
+      <numChildren value="5"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <UNK_MEMBER_0xFFEC781A value="0"/>
+      <tintValue value="0"/>
+      <UNK_MEMBER_0x0DC5F270 value="255"/>
+      <UNK_MEMBER_0x540CA436 value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>0x8BA9AFC6</archetypeName>
+      <flags value="1572864"/>
+      <id value="0x49B2653934A9DA35"/>
+      <position x="-3731.70500000" y="-2553.72500000" z="-14.66757000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="0"/>
+      <lodDist value="250.00000000"/>
+      <childLodDist value="100.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_LOD</lodLevel>
+      <numChildren value="1"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <UNK_MEMBER_0xFFEC781A value="0"/>
+      <tintValue value="0"/>
+      <UNK_MEMBER_0x0DC5F270 value="255"/>
+      <UNK_MEMBER_0x540CA436 value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>0x195507E2</archetypeName>
+      <flags value="1572864"/>
+      <id value="0x4F9F65FC03D8340F"/>
+      <position x="-3740.04000000" y="-2583.25400000" z="-14.85314000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="0"/>
+      <lodDist value="250.00000000"/>
+      <childLodDist value="100.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_LOD</lodLevel>
+      <numChildren value="2"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <UNK_MEMBER_0xFFEC781A value="0"/>
+      <tintValue value="0"/>
+      <UNK_MEMBER_0x0DC5F270 value="255"/>
+      <UNK_MEMBER_0x540CA436 value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>0x8C1C2635</archetypeName>
+      <flags value="1572864"/>
+      <id value="0x4DEB7AD72C05EA59"/>
+      <position x="-3730.51700000" y="-2615.47700000" z="-13.19055000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="0"/>
+      <lodDist value="250.00000000"/>
+      <childLodDist value="75.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_LOD</lodLevel>
+      <numChildren value="1"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <UNK_MEMBER_0xFFEC781A value="0"/>
+      <tintValue value="0"/>
+      <UNK_MEMBER_0x0DC5F270 value="255"/>
+      <UNK_MEMBER_0x540CA436 value="255"/>
+    </Item>
+  </entities>
+  <containerLods/>
+  <boxOccluders>
+    <Item>
+      <UNK_MEMBER_0xCC2290C3 x="-3739.73800000" y="-2607.89300000" z="-14.81323000" w="0.00308568"/>
+      <UNK_MEMBER_0x614B958A x="13.79817000" y="38.18335000" z="0.66093100" w="-0.99999520"/>
+    </Item>
+    <Item>
+      <UNK_MEMBER_0xCC2290C3 x="-3729.53900000" y="-2620.11500000" z="-14.88513000" w="0.00308568"/>
+      <UNK_MEMBER_0x614B958A x="7.54816500" y="13.68335000" z="0.66093100" w="-0.99999520"/>
+    </Item>
+    <Item>
+      <UNK_MEMBER_0xCC2290C3 x="-3731.56100000" y="-2592.30500000" z="-14.88513000" w="0.00308568"/>
+      <UNK_MEMBER_0x614B958A x="5.62816500" y="7.01334900" z="0.66093100" w="-0.99999520"/>
+    </Item>
+  </boxOccluders>
+  <occludeModels>
+    <Item>
+      <bmin x="-3733.14500000" y="-2613.22700000" z="-14.70264000"/>
+      <bmax x="-3725.58900000" y="-2601.69700000" z="-9.05566400"/>
+      <dataSize value="2808"/>
+      <verts content="char_array">
+        156
+        38
+        105
+        197
+        120
+        83
+        35
+        197
+        0
+        2
+        106
+        193
+        84
+        82
+        105
+        197
+        92
+        83
+        35
+        197
+        0
+        114
+        106
+        193
+        114
+        81
+        105
+        197
+        118
+        167
+        34
+        197
+        0
+        62
+        107
+        193
+        0
+        254
+        104
+        197
+        88
+        83
+        35
+        197
+        0
+        2
+        106
+        193
+        242
+        242
+        104
+        197
+        62
+        83
+        35
+        197
+        0
+        208
+        78
+        193
+        242
+        242
+        104
+        197
+        68
+        83
+        35
+        197
+        0
+        188
+        56
+        193
+        186
+        228
+        104
+        197
+        56
+        83
+        35
+        197
+        0
+        208
+        78
+        193
+        242
+        242
+        104
+        197
+        62
+        83
+        35
+        197
+        0
+        208
+        78
+        193
+        0
+        254
+        104
+        197
+        88
+        83
+        35
+        197
+        0
+        2
+        106
+        193
+        242
+        242
+        104
+        197
+        68
+        83
+        35
+        197
+        0
+        188
+        56
+        193
+        52
+        253
+        104
+        197
+        118
+        83
+        35
+        197
+        0
+        26
+        47
+        193
+        0
+        254
+        104
+        197
+        88
+        83
+        35
+        197
+        0
+        2
+        106
+        193
+        48
+        82
+        105
+        197
+        214
+        42
+        35
+        197
+        0
+        48
+        79
+        193
+        84
+        82
+        105
+        197
+        92
+        83
+        35
+        197
+        0
+        114
+        106
+        193
+        154
+        81
+        105
+        197
+        108
+        83
+        35
+        197
+        0
+        8
+        48
+        193
+        172
+        217
+        104
+        197
+        188
+        194
+        34
+        197
+        0
+        220
+        104
+        193
+        172
+        217
+        104
+        197
+        210
+        46
+        35
+        197
+        0
+        178
+        106
+        193
+        0
+        254
+        104
+        197
+        88
+        83
+        35
+        197
+        0
+        2
+        106
+        193
+        172
+        217
+        104
+        197
+        210
+        46
+        35
+        197
+        0
+        178
+        106
+        193
+        110
+        217
+        104
+        197
+        162
+        83
+        35
+        197
+        0
+        180
+        105
+        193
+        0
+        254
+        104
+        197
+        88
+        83
+        35
+        197
+        0
+        2
+        106
+        193
+        0
+        254
+        104
+        197
+        88
+        83
+        35
+        197
+        0
+        2
+        106
+        193
+        110
+        217
+        104
+        197
+        162
+        83
+        35
+        197
+        0
+        180
+        105
+        193
+        186
+        228
+        104
+        197
+        56
+        83
+        35
+        197
+        0
+        208
+        78
+        193
+        250
+        218
+        104
+        197
+        132
+        83
+        35
+        197
+        0
+        16
+        45
+        193
+        52
+        253
+        104
+        197
+        118
+        83
+        35
+        197
+        0
+        26
+        47
+        193
+        242
+        242
+        104
+        197
+        68
+        83
+        35
+        197
+        0
+        188
+        56
+        193
+        186
+        228
+        104
+        197
+        56
+        83
+        35
+        197
+        0
+        208
+        78
+        193
+        110
+        217
+        104
+        197
+        162
+        83
+        35
+        197
+        0
+        180
+        105
+        193
+        250
+        218
+        104
+        197
+        132
+        83
+        35
+        197
+        0
+        16
+        45
+        193
+        242
+        242
+        104
+        197
+        68
+        83
+        35
+        197
+        0
+        188
+        56
+        193
+        184
+        228
+        104
+        197
+        72
+        83
+        35
+        197
+        0
+        188
+        56
+        193
+        250
+        218
+        104
+        197
+        132
+        83
+        35
+        197
+        0
+        16
+        45
+        193
+        206
+        248
+        104
+        197
+        40
+        155
+        34
+        197
+        0
+        208
+        101
+        193
+        0
+        254
+        104
+        197
+        88
+        83
+        35
+        197
+        0
+        2
+        106
+        193
+        156
+        38
+        105
+        197
+        120
+        83
+        35
+        197
+        0
+        2
+        106
+        193
+        48
+        82
+        105
+        197
+        190
+        10
+        35
+        197
+        0
+        10
+        47
+        193
+        48
+        82
+        105
+        197
+        190
+        10
+        35
+        197
+        0
+        204
+        59
+        193
+        48
+        82
+        105
+        197
+        166
+        28
+        35
+        197
+        0
+        144
+        57
+        193
+        250
+        218
+        104
+        197
+        132
+        83
+        35
+        197
+        0
+        16
+        45
+        193
+        184
+        228
+        104
+        197
+        72
+        83
+        35
+        197
+        0
+        188
+        56
+        193
+        186
+        228
+        104
+        197
+        56
+        83
+        35
+        197
+        0
+        208
+        78
+        193
+        250
+        218
+        104
+        197
+        132
+        83
+        35
+        197
+        0
+        16
+        45
+        193
+        110
+        217
+        104
+        197
+        162
+        83
+        35
+        197
+        0
+        180
+        105
+        193
+        172
+        217
+        104
+        197
+        146
+        72
+        35
+        197
+        0
+        32
+        79
+        193
+        172
+        217
+        104
+        197
+        146
+        72
+        35
+        197
+        0
+        32
+        79
+        193
+        172
+        217
+        104
+        197
+        146
+        72
+        35
+        197
+        0
+        128
+        57
+        193
+        250
+        218
+        104
+        197
+        132
+        83
+        35
+        197
+        0
+        16
+        45
+        193
+        172
+        217
+        104
+        197
+        36
+        58
+        35
+        197
+        0
+        32
+        79
+        193
+        172
+        217
+        104
+        197
+        146
+        72
+        35
+        197
+        0
+        32
+        79
+        193
+        110
+        217
+        104
+        197
+        162
+        83
+        35
+        197
+        0
+        180
+        105
+        193
+        182
+        218
+        104
+        197
+        56
+        44
+        35
+        197
+        0
+        72
+        45
+        193
+        250
+        218
+        104
+        197
+        132
+        83
+        35
+        197
+        0
+        16
+        45
+        193
+        172
+        217
+        104
+        197
+        146
+        72
+        35
+        197
+        0
+        128
+        57
+        193
+        110
+        217
+        104
+        197
+        162
+        83
+        35
+        197
+        0
+        180
+        105
+        193
+        172
+        217
+        104
+        197
+        210
+        46
+        35
+        197
+        0
+        178
+        106
+        193
+        172
+        217
+        104
+        197
+        36
+        58
+        35
+        197
+        0
+        32
+        79
+        193
+        172
+        217
+        104
+        197
+        146
+        72
+        35
+        197
+        0
+        128
+        57
+        193
+        172
+        217
+        104
+        197
+        36
+        58
+        35
+        197
+        0
+        128
+        57
+        193
+        182
+        218
+        104
+        197
+        56
+        44
+        35
+        197
+        0
+        72
+        45
+        193
+        172
+        217
+        104
+        197
+        36
+        58
+        35
+        197
+        0
+        128
+        57
+        193
+        172
+        217
+        104
+        197
+        36
+        58
+        35
+        197
+        0
+        32
+        79
+        193
+        172
+        217
+        104
+        197
+        210
+        46
+        35
+        197
+        0
+        178
+        106
+        193
+        172
+        217
+        104
+        197
+        210
+        46
+        35
+        197
+        0
+        178
+        106
+        193
+        182
+        218
+        104
+        197
+        56
+        44
+        35
+        197
+        0
+        72
+        45
+        193
+        172
+        217
+        104
+        197
+        36
+        58
+        35
+        197
+        0
+        128
+        57
+        193
+        182
+        218
+        104
+        197
+        56
+        44
+        35
+        197
+        0
+        72
+        45
+        193
+        172
+        217
+        104
+        197
+        210
+        46
+        35
+        197
+        0
+        178
+        106
+        193
+        172
+        217
+        104
+        197
+        112
+        34
+        35
+        197
+        0
+        36
+        79
+        193
+        172
+        217
+        104
+        197
+        112
+        34
+        35
+        197
+        0
+        36
+        79
+        193
+        172
+        217
+        104
+        197
+        112
+        34
+        35
+        197
+        0
+        166
+        57
+        193
+        182
+        218
+        104
+        197
+        56
+        44
+        35
+        197
+        0
+        72
+        45
+        193
+        182
+        218
+        104
+        197
+        56
+        44
+        35
+        197
+        0
+        72
+        45
+        193
+        172
+        217
+        104
+        197
+        112
+        34
+        35
+        197
+        0
+        166
+        57
+        193
+        172
+        217
+        104
+        197
+        202
+        20
+        35
+        197
+        0
+        166
+        57
+        193
+        172
+        217
+        104
+        197
+        112
+        34
+        35
+        197
+        0
+        36
+        79
+        193
+        172
+        217
+        104
+        197
+        210
+        46
+        35
+        197
+        0
+        178
+        106
+        193
+        172
+        217
+        104
+        197
+        192
+        10
+        35
+        197
+        0
+        62
+        95
+        193
+        172
+        217
+        104
+        197
+        192
+        10
+        35
+        197
+        0
+        62
+        95
+        193
+        172
+        217
+        104
+        197
+        202
+        20
+        35
+        197
+        0
+        36
+        79
+        193
+        172
+        217
+        104
+        197
+        112
+        34
+        35
+        197
+        0
+        36
+        79
+        193
+        48
+        82
+        105
+        197
+        190
+        10
+        35
+        197
+        0
+        10
+        47
+        193
+        154
+        81
+        105
+        197
+        108
+        83
+        35
+        197
+        0
+        8
+        48
+        193
+        54
+        61
+        105
+        197
+        124
+        83
+        35
+        197
+        0
+        60
+        36
+        193
+        54
+        61
+        105
+        197
+        124
+        83
+        35
+        197
+        0
+        60
+        36
+        193
+        34
+        56
+        105
+        197
+        94
+        247
+        34
+        197
+        0
+        226
+        32
+        193
+        48
+        82
+        105
+        197
+        190
+        10
+        35
+        197
+        0
+        10
+        47
+        193
+        34
+        56
+        105
+        197
+        94
+        247
+        34
+        197
+        0
+        226
+        32
+        193
+        54
+        61
+        105
+        197
+        124
+        83
+        35
+        197
+        0
+        60
+        36
+        193
+        68
+        29
+        105
+        197
+        134
+        83
+        35
+        197
+        0
+        228
+        16
+        193
+        48
+        82
+        105
+        197
+        150
+        230
+        34
+        197
+        0
+        10
+        47
+        193
+        48
+        82
+        105
+        197
+        190
+        10
+        35
+        197
+        0
+        10
+        47
+        193
+        34
+        56
+        105
+        197
+        94
+        247
+        34
+        197
+        0
+        226
+        32
+        193
+        48
+        82
+        105
+        197
+        196
+        28
+        35
+        197
+        0
+        48
+        79
+        193
+        48
+        82
+        105
+        197
+        166
+        28
+        35
+        197
+        0
+        144
+        57
+        193
+        48
+        82
+        105
+        197
+        190
+        10
+        35
+        197
+        0
+        204
+        59
+        193
+        68
+        29
+        105
+        197
+        134
+        83
+        35
+        197
+        0
+        228
+        16
+        193
+        140
+        29
+        105
+        197
+        138
+        247
+        34
+        197
+        0
+        10
+        17
+        193
+        34
+        56
+        105
+        197
+        94
+        247
+        34
+        197
+        0
+        226
+        32
+        193
+        172
+        217
+        104
+        197
+        202
+        20
+        35
+        197
+        0
+        166
+        57
+        193
+        172
+        217
+        104
+        197
+        192
+        10
+        35
+        197
+        0
+        4
+        59
+        193
+        182
+        218
+        104
+        197
+        56
+        44
+        35
+        197
+        0
+        72
+        45
+        193
+        84
+        82
+        105
+        197
+        92
+        83
+        35
+        197
+        0
+        114
+        106
+        193
+        48
+        82
+        105
+        197
+        214
+        42
+        35
+        197
+        0
+        48
+        79
+        193
+        48
+        82
+        105
+        197
+        196
+        28
+        35
+        197
+        0
+        48
+        79
+        193
+        172
+        217
+        104
+        197
+        192
+        10
+        35
+        197
+        0
+        4
+        59
+        193
+        172
+        217
+        104
+        197
+        202
+        20
+        35
+        197
+        0
+        166
+        57
+        193
+        172
+        217
+        104
+        197
+        202
+        20
+        35
+        197
+        0
+        36
+        79
+        193
+        104
+        252
+        104
+        197
+        124
+        83
+        35
+        197
+        0
+        162
+        34
+        193
+        250
+        218
+        104
+        197
+        132
+        83
+        35
+        197
+        0
+        16
+        45
+        193
+        182
+        218
+        104
+        197
+        56
+        44
+        35
+        197
+        0
+        72
+        45
+        193
+        182
+        218
+        104
+        197
+        56
+        44
+        35
+        197
+        0
+        72
+        45
+        193
+        74
+        252
+        104
+        197
+        70
+        247
+        34
+        197
+        0
+        122
+        34
+        193
+        104
+        252
+        104
+        197
+        124
+        83
+        35
+        197
+        0
+        162
+        34
+        193
+        68
+        29
+        105
+        197
+        134
+        83
+        35
+        197
+        0
+        228
+        16
+        193
+        104
+        252
+        104
+        197
+        124
+        83
+        35
+        197
+        0
+        162
+        34
+        193
+        74
+        252
+        104
+        197
+        70
+        247
+        34
+        197
+        0
+        122
+        34
+        193
+        74
+        252
+        104
+        197
+        70
+        247
+        34
+        197
+        0
+        122
+        34
+        193
+        182
+        218
+        104
+        197
+        56
+        44
+        35
+        197
+        0
+        72
+        45
+        193
+        2
+        218
+        104
+        197
+        224
+        194
+        34
+        197
+        0
+        220
+        45
+        193
+        74
+        252
+        104
+        197
+        70
+        247
+        34
+        197
+        0
+        122
+        34
+        193
+        140
+        29
+        105
+        197
+        138
+        247
+        34
+        197
+        0
+        10
+        17
+        193
+        68
+        29
+        105
+        197
+        134
+        83
+        35
+        197
+        0
+        228
+        16
+        193
+        172
+        217
+        104
+        197
+        202
+        20
+        35
+        197
+        0
+        36
+        79
+        193
+        172
+        217
+        104
+        197
+        192
+        10
+        35
+        197
+        0
+        62
+        95
+        193
+        172
+        217
+        104
+        197
+        192
+        10
+        35
+        197
+        0
+        4
+        59
+        193
+        48
+        82
+        105
+        197
+        190
+        10
+        35
+        197
+        0
+        204
+        59
+        193
+        48
+        82
+        105
+        197
+        190
+        10
+        35
+        197
+        0
+        10
+        47
+        193
+        48
+        82
+        105
+        197
+        150
+        230
+        34
+        197
+        0
+        10
+        47
+        193
+        182
+        218
+        104
+        197
+        56
+        44
+        35
+        197
+        0
+        72
+        45
+        193
+        172
+        217
+        104
+        197
+        192
+        10
+        35
+        197
+        0
+        4
+        59
+        193
+        172
+        217
+        104
+        197
+        148
+        230
+        34
+        197
+        0
+        4
+        59
+        193
+        172
+        217
+        104
+        197
+        192
+        10
+        35
+        197
+        0
+        62
+        95
+        193
+        172
+        217
+        104
+        197
+        210
+        46
+        35
+        197
+        0
+        178
+        106
+        193
+        172
+        217
+        104
+        197
+        188
+        194
+        34
+        197
+        0
+        220
+        104
+        193
+        52
+        253
+        104
+        197
+        118
+        83
+        35
+        197
+        0
+        26
+        47
+        193
+        250
+        218
+        104
+        197
+        132
+        83
+        35
+        197
+        0
+        16
+        45
+        193
+        104
+        252
+        104
+        197
+        124
+        83
+        35
+        197
+        0
+        162
+        34
+        193
+        104
+        252
+        104
+        197
+        124
+        83
+        35
+        197
+        0
+        162
+        34
+        193
+        192
+        39
+        105
+        197
+        120
+        83
+        35
+        197
+        0
+        54
+        47
+        193
+        52
+        253
+        104
+        197
+        118
+        83
+        35
+        197
+        0
+        26
+        47
+        193
+        104
+        252
+        104
+        197
+        124
+        83
+        35
+        197
+        0
+        162
+        34
+        193
+        68
+        29
+        105
+        197
+        134
+        83
+        35
+        197
+        0
+        228
+        16
+        193
+        192
+        39
+        105
+        197
+        120
+        83
+        35
+        197
+        0
+        54
+        47
+        193
+        68
+        29
+        105
+        197
+        134
+        83
+        35
+        197
+        0
+        228
+        16
+        193
+        54
+        61
+        105
+        197
+        124
+        83
+        35
+        197
+        0
+        60
+        36
+        193
+        192
+        39
+        105
+        197
+        120
+        83
+        35
+        197
+        0
+        54
+        47
+        193
+        54
+        61
+        105
+        197
+        124
+        83
+        35
+        197
+        0
+        60
+        36
+        193
+        154
+        81
+        105
+        197
+        108
+        83
+        35
+        197
+        0
+        8
+        48
+        193
+        192
+        39
+        105
+        197
+        120
+        83
+        35
+        197
+        0
+        54
+        47
+        193
+        192
+        39
+        105
+        197
+        120
+        83
+        35
+        197
+        0
+        54
+        47
+        193
+        154
+        81
+        105
+        197
+        108
+        83
+        35
+        197
+        0
+        8
+        48
+        193
+        202
+        71
+        105
+        197
+        118
+        83
+        35
+        197
+        0
+        84
+        57
+        193
+        202
+        71
+        105
+        197
+        118
+        83
+        35
+        197
+        0
+        84
+        57
+        193
+        154
+        81
+        105
+        197
+        108
+        83
+        35
+        197
+        0
+        8
+        48
+        193
+        84
+        82
+        105
+        197
+        92
+        83
+        35
+        197
+        0
+        114
+        106
+        193
+        84
+        82
+        105
+        197
+        92
+        83
+        35
+        197
+        0
+        114
+        106
+        193
+        202
+        71
+        105
+        197
+        118
+        83
+        35
+        197
+        0
+        0
+        95
+        193
+        202
+        71
+        105
+        197
+        118
+        83
+        35
+        197
+        0
+        84
+        57
+        193
+        182
+        52
+        105
+        197
+        118
+        83
+        35
+        197
+        0
+        0
+        95
+        193
+        202
+        71
+        105
+        197
+        118
+        83
+        35
+        197
+        0
+        0
+        95
+        193
+        84
+        82
+        105
+        197
+        92
+        83
+        35
+        197
+        0
+        114
+        106
+        193
+        202
+        71
+        105
+        197
+        118
+        83
+        35
+        197
+        0
+        84
+        57
+        193
+        184
+        52
+        105
+        197
+        118
+        83
+        35
+        197
+        0
+        84
+        57
+        193
+        192
+        39
+        105
+        197
+        120
+        83
+        35
+        197
+        0
+        54
+        47
+        193
+        84
+        82
+        105
+        197
+        92
+        83
+        35
+        197
+        0
+        114
+        106
+        193
+        156
+        38
+        105
+        197
+        120
+        83
+        35
+        197
+        0
+        2
+        106
+        193
+        182
+        52
+        105
+        197
+        118
+        83
+        35
+        197
+        0
+        0
+        95
+        193
+        184
+        52
+        105
+        197
+        118
+        83
+        35
+        197
+        0
+        84
+        57
+        193
+        182
+        52
+        105
+        197
+        118
+        83
+        35
+        197
+        0
+        0
+        95
+        193
+        156
+        38
+        105
+        197
+        120
+        83
+        35
+        197
+        0
+        2
+        106
+        193
+        192
+        39
+        105
+        197
+        120
+        83
+        35
+        197
+        0
+        54
+        47
+        193
+        184
+        52
+        105
+        197
+        118
+        83
+        35
+        197
+        0
+        84
+        57
+        193
+        156
+        38
+        105
+        197
+        120
+        83
+        35
+        197
+        0
+        2
+        106
+        193
+        116
+        24
+        105
+        197
+        128
+        83
+        35
+        197
+        0
+        192
+        56
+        193
+        192
+        39
+        105
+        197
+        120
+        83
+        35
+        197
+        0
+        54
+        47
+        193
+        156
+        38
+        105
+        197
+        120
+        83
+        35
+        197
+        0
+        2
+        106
+        193
+        52
+        253
+        104
+        197
+        118
+        83
+        35
+        197
+        0
+        26
+        47
+        193
+        192
+        39
+        105
+        197
+        120
+        83
+        35
+        197
+        0
+        54
+        47
+        193
+        116
+        24
+        105
+        197
+        128
+        83
+        35
+        197
+        0
+        192
+        56
+        193
+        116
+        24
+        105
+        197
+        128
+        83
+        35
+        197
+        0
+        54
+        79
+        193
+        116
+        24
+        105
+        197
+        128
+        83
+        35
+        197
+        0
+        192
+        56
+        193
+        156
+        38
+        105
+        197
+        120
+        83
+        35
+        197
+        0
+        2
+        106
+        193
+        116
+        24
+        105
+        197
+        128
+        83
+        35
+        197
+        0
+        192
+        56
+        193
+        108
+        10
+        105
+        197
+        128
+        83
+        35
+        197
+        0
+        192
+        56
+        193
+        52
+        253
+        104
+        197
+        118
+        83
+        35
+        197
+        0
+        26
+        47
+        193
+        116
+        24
+        105
+        197
+        128
+        83
+        35
+        197
+        0
+        54
+        79
+        193
+        156
+        38
+        105
+        197
+        120
+        83
+        35
+        197
+        0
+        2
+        106
+        193
+        0
+        254
+        104
+        197
+        88
+        83
+        35
+        197
+        0
+        2
+        106
+        193
+        0
+        254
+        104
+        197
+        88
+        83
+        35
+        197
+        0
+        2
+        106
+        193
+        52
+        253
+        104
+        197
+        118
+        83
+        35
+        197
+        0
+        26
+        47
+        193
+        108
+        10
+        105
+        197
+        128
+        83
+        35
+        197
+        0
+        192
+        56
+        193
+        0
+        254
+        104
+        197
+        88
+        83
+        35
+        197
+        0
+        2
+        106
+        193
+        108
+        10
+        105
+        197
+        130
+        83
+        35
+        197
+        0
+        54
+        79
+        193
+        116
+        24
+        105
+        197
+        128
+        83
+        35
+        197
+        0
+        54
+        79
+        193
+        108
+        10
+        105
+        197
+        128
+        83
+        35
+        197
+        0
+        192
+        56
+        193
+        108
+        10
+        105
+        197
+        130
+        83
+        35
+        197
+        0
+        54
+        79
+        193
+        0
+        254
+        104
+        197
+        88
+        83
+        35
+        197
+        0
+        2
+        106
+        193
+        48
+        82
+        105
+        197
+        190
+        10
+        35
+        197
+        0
+        204
+        59
+        193
+        48
+        82
+        105
+        197
+        188
+        10
+        35
+        197
+        0
+        110
+        95
+        193
+        48
+        82
+        105
+        197
+        196
+        28
+        35
+        197
+        0
+        48
+        79
+        193
+        48
+        82
+        105
+        197
+        196
+        28
+        35
+        197
+        0
+        48
+        79
+        193
+        48
+        82
+        105
+        197
+        188
+        10
+        35
+        197
+        0
+        110
+        95
+        193
+        84
+        82
+        105
+        197
+        92
+        83
+        35
+        197
+        0
+        114
+        106
+        193
+        114
+        81
+        105
+        197
+        118
+        167
+        34
+        197
+        0
+        62
+        107
+        193
+        84
+        82
+        105
+        197
+        92
+        83
+        35
+        197
+        0
+        114
+        106
+        193
+        48
+        82
+        105
+        197
+        188
+        10
+        35
+        197
+        0
+        110
+        95
+        193
+        48
+        82
+        105
+        197
+        190
+        10
+        35
+        197
+        0
+        10
+        47
+        193
+        48
+        82
+        105
+        197
+        166
+        28
+        35
+        197
+        0
+        144
+        57
+        193
+        48
+        82
+        105
+        197
+        158
+        42
+        35
+        197
+        0
+        144
+        57
+        193
+        154
+        81
+        105
+        197
+        108
+        83
+        35
+        197
+        0
+        8
+        48
+        193
+        48
+        82
+        105
+        197
+        158
+        42
+        35
+        197
+        0
+        144
+        57
+        193
+        48
+        82
+        105
+        197
+        214
+        42
+        35
+        197
+        0
+        48
+        79
+        193
+        48
+        82
+        105
+        197
+        158
+        42
+        35
+        197
+        0
+        144
+        57
+        193
+        154
+        81
+        105
+        197
+        108
+        83
+        35
+        197
+        0
+        8
+        48
+        193
+        48
+        82
+        105
+        197
+        190
+        10
+        35
+        197
+        0
+        10
+        47
+        193
+        0
+        1
+        2
+        3
+        4
+        5
+        6
+        7
+        8
+        9
+        10
+        11
+        12
+        13
+        14
+        15
+        16
+        17
+        18
+        19
+        20
+        21
+        22
+        23
+        24
+        25
+        26
+        27
+        28
+        29
+        30
+        31
+        32
+        33
+        34
+        35
+        36
+        37
+        38
+        39
+        40
+        41
+        42
+        43
+        44
+        45
+        46
+        47
+        48
+        49
+        50
+        51
+        52
+        53
+        54
+        55
+        56
+        57
+        58
+        59
+        60
+        61
+        62
+        63
+        64
+        65
+        66
+        67
+        68
+        69
+        70
+        71
+        72
+        73
+        74
+        75
+        76
+        77
+        78
+        79
+        80
+        81
+        82
+        83
+        84
+        85
+        86
+        87
+        88
+        89
+        90
+        91
+        92
+        93
+        94
+        95
+        96
+        97
+        98
+        99
+        100
+        101
+        102
+        103
+        104
+        105
+        106
+        107
+        108
+        109
+        110
+        111
+        112
+        113
+        114
+        115
+        116
+        117
+        118
+        119
+        120
+        121
+        122
+        123
+        124
+        125
+        126
+        127
+        128
+        129
+        130
+        131
+        132
+        133
+        134
+        135
+        136
+        137
+        138
+        139
+        140
+        141
+        142
+        143
+        144
+        145
+        146
+        147
+        148
+        149
+        150
+        151
+        152
+        153
+        154
+        155
+        156
+        157
+        158
+        159
+        160
+        161
+        162
+        163
+        164
+        165
+        166
+        167
+        168
+        169
+        170
+        171
+        172
+        173
+        174
+        175
+        176
+        177
+        178
+        179
+        180
+        181
+        182
+        183
+        184
+        185
+        186
+        187
+        188
+        189
+        190
+        191
+        192
+        193
+        194
+        195
+        196
+        197
+        198
+        199
+        200
+        201
+        202
+        203
+        204
+        205
+        206
+        207
+        208
+        209
+        210
+        211
+        212
+        213
+        214
+        215
+      </verts>
+      <numVertsInBytes value="2592"/>
+      <numTris value="32840"/>
+      <flags value="0"/>
+    </Item>
+    <Item>
+      <bmin x="-3733.13700000" y="-2613.21700000" z="-14.70264000"/>
+      <bmax x="-3725.60400000" y="-2601.69700000" z="-9.06494100"/>
+      <dataSize value="819"/>
+      <verts content="char_array">
+        172
+        217
+        104
+        197
+        148
+        230
+        34
+        197
+        0
+        62
+        95
+        193
+        172
+        217
+        104
+        197
+        188
+        194
+        34
+        197
+        0
+        220
+        104
+        193
+        172
+        217
+        104
+        197
+        96
+        205
+        34
+        197
+        0
+        4
+        79
+        193
+        172
+        217
+        104
+        197
+        172
+        219
+        34
+        197
+        0
+        98
+        57
+        193
+        172
+        217
+        104
+        197
+        96
+        205
+        34
+        197
+        0
+        98
+        57
+        193
+        2
+        218
+        104
+        197
+        224
+        194
+        34
+        197
+        0
+        220
+        45
+        193
+        2
+        218
+        104
+        197
+        224
+        194
+        34
+        197
+        0
+        220
+        45
+        193
+        172
+        217
+        104
+        197
+        96
+        205
+        34
+        197
+        0
+        98
+        57
+        193
+        172
+        217
+        104
+        197
+        96
+        205
+        34
+        197
+        0
+        4
+        79
+        193
+        172
+        217
+        104
+        197
+        96
+        205
+        34
+        197
+        0
+        4
+        79
+        193
+        172
+        217
+        104
+        197
+        172
+        219
+        34
+        197
+        0
+        6
+        79
+        193
+        172
+        217
+        104
+        197
+        148
+        230
+        34
+        197
+        0
+        62
+        95
+        193
+        172
+        217
+        104
+        197
+        148
+        230
+        34
+        197
+        0
+        62
+        95
+        193
+        172
+        217
+        104
+        197
+        172
+        219
+        34
+        197
+        0
+        6
+        79
+        193
+        172
+        217
+        104
+        197
+        172
+        219
+        34
+        197
+        0
+        98
+        57
+        193
+        48
+        82
+        105
+        197
+        142
+        195
+        34
+        197
+        0
+        146
+        56
+        193
+        48
+        82
+        105
+        197
+        96
+        209
+        34
+        197
+        0
+        146
+        56
+        193
+        48
+        82
+        105
+        197
+        150
+        230
+        34
+        197
+        0
+        10
+        47
+        193
+        2
+        218
+        104
+        197
+        224
+        194
+        34
+        197
+        0
+        220
+        45
+        193
+        172
+        217
+        104
+        197
+        148
+        230
+        34
+        197
+        0
+        4
+        59
+        193
+        172
+        217
+        104
+        197
+        172
+        219
+        34
+        197
+        0
+        98
+        57
+        193
+        48
+        82
+        105
+        197
+        72
+        230
+        34
+        197
+        0
+        110
+        95
+        193
+        48
+        82
+        105
+        197
+        96
+        209
+        34
+        197
+        0
+        54
+        79
+        193
+        48
+        82
+        105
+        197
+        142
+        195
+        34
+        197
+        0
+        54
+        79
+        193
+        48
+        82
+        105
+        197
+        188
+        10
+        35
+        197
+        0
+        110
+        95
+        193
+        48
+        82
+        105
+        197
+        72
+        230
+        34
+        197
+        0
+        110
+        95
+        193
+        114
+        81
+        105
+        197
+        118
+        167
+        34
+        197
+        0
+        62
+        107
+        193
+        48
+        82
+        105
+        197
+        72
+        230
+        34
+        197
+        0
+        204
+        59
+        193
+        48
+        82
+        105
+        197
+        96
+        209
+        34
+        197
+        0
+        54
+        79
+        193
+        48
+        82
+        105
+        197
+        72
+        230
+        34
+        197
+        0
+        110
+        95
+        193
+        48
+        82
+        105
+        197
+        96
+        209
+        34
+        197
+        0
+        146
+        56
+        193
+        48
+        82
+        105
+        197
+        96
+        209
+        34
+        197
+        0
+        54
+        79
+        193
+        48
+        82
+        105
+        197
+        72
+        230
+        34
+        197
+        0
+        204
+        59
+        193
+        48
+        82
+        105
+        197
+        72
+        230
+        34
+        197
+        0
+        204
+        59
+        193
+        48
+        82
+        105
+        197
+        150
+        230
+        34
+        197
+        0
+        10
+        47
+        193
+        48
+        82
+        105
+        197
+        96
+        209
+        34
+        197
+        0
+        146
+        56
+        193
+        172
+        217
+        104
+        197
+        172
+        219
+        34
+        197
+        0
+        98
+        57
+        193
+        172
+        217
+        104
+        197
+        148
+        230
+        34
+        197
+        0
+        4
+        59
+        193
+        172
+        217
+        104
+        197
+        148
+        230
+        34
+        197
+        0
+        62
+        95
+        193
+        48
+        82
+        105
+        197
+        150
+        230
+        34
+        197
+        0
+        10
+        47
+        193
+        48
+        82
+        105
+        197
+        72
+        230
+        34
+        197
+        0
+        204
+        59
+        193
+        48
+        82
+        105
+        197
+        190
+        10
+        35
+        197
+        0
+        204
+        59
+        193
+        172
+        217
+        104
+        197
+        188
+        194
+        34
+        197
+        0
+        220
+        104
+        193
+        172
+        217
+        104
+        197
+        148
+        230
+        34
+        197
+        0
+        62
+        95
+        193
+        172
+        217
+        104
+        197
+        192
+        10
+        35
+        197
+        0
+        62
+        95
+        193
+        172
+        217
+        104
+        197
+        148
+        230
+        34
+        197
+        0
+        4
+        59
+        193
+        2
+        218
+        104
+        197
+        224
+        194
+        34
+        197
+        0
+        220
+        45
+        193
+        182
+        218
+        104
+        197
+        56
+        44
+        35
+        197
+        0
+        72
+        45
+        193
+        210
+        29
+        105
+        197
+        196
+        156
+        34
+        197
+        0
+        46
+        17
+        193
+        140
+        29
+        105
+        197
+        138
+        247
+        34
+        197
+        0
+        10
+        17
+        193
+        74
+        252
+        104
+        197
+        70
+        247
+        34
+        197
+        0
+        122
+        34
+        193
+        16
+        51
+        105
+        197
+        114
+        156
+        34
+        197
+        0
+        46
+        30
+        193
+        34
+        56
+        105
+        197
+        94
+        247
+        34
+        197
+        0
+        226
+        32
+        193
+        140
+        29
+        105
+        197
+        138
+        247
+        34
+        197
+        0
+        10
+        17
+        193
+        128
+        81
+        105
+        197
+        152
+        156
+        34
+        197
+        0
+        224
+        45
+        193
+        48
+        82
+        105
+        197
+        150
+        230
+        34
+        197
+        0
+        10
+        47
+        193
+        34
+        56
+        105
+        197
+        94
+        247
+        34
+        197
+        0
+        226
+        32
+        193
+        156
+        38
+        105
+        197
+        120
+        83
+        35
+        197
+        0
+        2
+        106
+        193
+        114
+        81
+        105
+        197
+        118
+        167
+        34
+        197
+        0
+        62
+        107
+        193
+        206
+        248
+        104
+        197
+        40
+        155
+        34
+        197
+        0
+        208
+        101
+        193
+        0
+        254
+        104
+        197
+        88
+        83
+        35
+        197
+        0
+        2
+        106
+        193
+        206
+        248
+        104
+        197
+        40
+        155
+        34
+        197
+        0
+        208
+        101
+        193
+        172
+        217
+        104
+        197
+        188
+        194
+        34
+        197
+        0
+        220
+        104
+        193
+        0
+        1
+        2
+        3
+        4
+        5
+        6
+        7
+        8
+        9
+        10
+        11
+        12
+        13
+        14
+        15
+        16
+        17
+        18
+        19
+        20
+        21
+        22
+        23
+        24
+        25
+        26
+        27
+        28
+        29
+        30
+        31
+        32
+        33
+        34
+        35
+        36
+        37
+        38
+        39
+        40
+        41
+        42
+        43
+        44
+        45
+        46
+        47
+        48
+        49
+        50
+        51
+        52
+        53
+        54
+        55
+        56
+        57
+        58
+        59
+        60
+        61
+        62
+      </verts>
+      <numVertsInBytes value="756"/>
+      <numTris value="32789"/>
+      <flags value="0"/>
+    </Item>
+    <Item>
+      <bmin x="-3733.18000000" y="-2607.47100000" z="-14.70264000"/>
+      <bmax x="-3725.58900000" y="-2595.82300000" z="-9.06494100"/>
+      <dataSize value="1833"/>
+      <verts content="char_array">
+        48
+        82
+        105
+        197
+        142
+        195
+        34
+        197
+        0
+        54
+        79
+        193
+        114
+        81
+        105
+        197
+        118
+        167
+        34
+        197
+        0
+        62
+        107
+        193
+        48
+        82
+        105
+        197
+        72
+        230
+        34
+        197
+        0
+        110
+        95
+        193
+        48
+        82
+        105
+        197
+        150
+        230
+        34
+        197
+        0
+        10
+        47
+        193
+        128
+        81
+        105
+        197
+        152
+        156
+        34
+        197
+        0
+        224
+        45
+        193
+        48
+        82
+        105
+        197
+        142
+        195
+        34
+        197
+        0
+        146
+        56
+        193
+        48
+        82
+        105
+        197
+        142
+        195
+        34
+        197
+        0
+        54
+        79
+        193
+        48
+        82
+        105
+        197
+        142
+        195
+        34
+        197
+        0
+        146
+        56
+        193
+        128
+        81
+        105
+        197
+        152
+        156
+        34
+        197
+        0
+        224
+        45
+        193
+        172
+        217
+        104
+        197
+        178
+        182
+        34
+        197
+        0
+        116
+        57
+        193
+        172
+        217
+        104
+        197
+        222
+        167
+        34
+        197
+        0
+        116
+        57
+        193
+        190
+        217
+        104
+        197
+        200
+        156
+        34
+        197
+        0
+        20
+        46
+        193
+        190
+        217
+        104
+        197
+        200
+        156
+        34
+        197
+        0
+        20
+        46
+        193
+        172
+        217
+        104
+        197
+        222
+        167
+        34
+        197
+        0
+        116
+        57
+        193
+        172
+        217
+        104
+        197
+        222
+        167
+        34
+        197
+        0
+        36
+        79
+        193
+        172
+        217
+        104
+        197
+        222
+        167
+        34
+        197
+        0
+        36
+        79
+        193
+        110
+        217
+        104
+        197
+        8
+        157
+        34
+        197
+        0
+        210
+        101
+        193
+        190
+        217
+        104
+        197
+        200
+        156
+        34
+        197
+        0
+        20
+        46
+        193
+        190
+        217
+        104
+        197
+        200
+        156
+        34
+        197
+        0
+        20
+        46
+        193
+        2
+        218
+        104
+        197
+        224
+        194
+        34
+        197
+        0
+        220
+        45
+        193
+        172
+        217
+        104
+        197
+        178
+        182
+        34
+        197
+        0
+        116
+        57
+        193
+        172
+        217
+        104
+        197
+        188
+        194
+        34
+        197
+        0
+        220
+        104
+        193
+        110
+        217
+        104
+        197
+        8
+        157
+        34
+        197
+        0
+        210
+        101
+        193
+        172
+        217
+        104
+        197
+        222
+        167
+        34
+        197
+        0
+        36
+        79
+        193
+        172
+        217
+        104
+        197
+        178
+        182
+        34
+        197
+        0
+        36
+        79
+        193
+        172
+        217
+        104
+        197
+        178
+        182
+        34
+        197
+        0
+        116
+        57
+        193
+        2
+        218
+        104
+        197
+        224
+        194
+        34
+        197
+        0
+        220
+        45
+        193
+        172
+        217
+        104
+        197
+        222
+        167
+        34
+        197
+        0
+        36
+        79
+        193
+        172
+        217
+        104
+        197
+        178
+        182
+        34
+        197
+        0
+        36
+        79
+        193
+        172
+        217
+        104
+        197
+        188
+        194
+        34
+        197
+        0
+        220
+        104
+        193
+        2
+        218
+        104
+        197
+        224
+        194
+        34
+        197
+        0
+        220
+        45
+        193
+        172
+        217
+        104
+        197
+        188
+        194
+        34
+        197
+        0
+        220
+        104
+        193
+        172
+        217
+        104
+        197
+        178
+        182
+        34
+        197
+        0
+        36
+        79
+        193
+        172
+        217
+        104
+        197
+        96
+        205
+        34
+        197
+        0
+        4
+        79
+        193
+        172
+        217
+        104
+        197
+        188
+        194
+        34
+        197
+        0
+        220
+        104
+        193
+        2
+        218
+        104
+        197
+        224
+        194
+        34
+        197
+        0
+        220
+        45
+        193
+        128
+        81
+        105
+        197
+        152
+        156
+        34
+        197
+        0
+        224
+        45
+        193
+        114
+        81
+        105
+        197
+        118
+        167
+        34
+        197
+        0
+        62
+        107
+        193
+        48
+        82
+        105
+        197
+        142
+        195
+        34
+        197
+        0
+        54
+        79
+        193
+        198
+        82
+        105
+        197
+        172
+        112
+        34
+        197
+        0
+        122
+        78
+        193
+        114
+        81
+        105
+        197
+        118
+        167
+        34
+        197
+        0
+        62
+        107
+        193
+        128
+        81
+        105
+        197
+        152
+        156
+        34
+        197
+        0
+        224
+        45
+        193
+        114
+        81
+        105
+        197
+        118
+        167
+        34
+        197
+        0
+        62
+        107
+        193
+        198
+        82
+        105
+        197
+        172
+        112
+        34
+        197
+        0
+        122
+        78
+        193
+        224
+        82
+        105
+        197
+        10
+        75
+        34
+        197
+        0
+        26
+        78
+        193
+        128
+        81
+        105
+        197
+        152
+        156
+        34
+        197
+        0
+        224
+        45
+        193
+        198
+        82
+        105
+        197
+        200
+        112
+        34
+        197
+        0
+        92
+        58
+        193
+        198
+        82
+        105
+        197
+        172
+        112
+        34
+        197
+        0
+        122
+        78
+        193
+        224
+        82
+        105
+        197
+        10
+        75
+        34
+        197
+        0
+        26
+        78
+        193
+        114
+        81
+        105
+        197
+        44
+        61
+        34
+        197
+        0
+        10
+        105
+        193
+        114
+        81
+        105
+        197
+        118
+        167
+        34
+        197
+        0
+        62
+        107
+        193
+        198
+        82
+        105
+        197
+        200
+        112
+        34
+        197
+        0
+        92
+        58
+        193
+        128
+        81
+        105
+        197
+        152
+        156
+        34
+        197
+        0
+        224
+        45
+        193
+        80
+        81
+        105
+        197
+        44
+        61
+        34
+        197
+        0
+        124
+        47
+        193
+        80
+        81
+        105
+        197
+        44
+        61
+        34
+        197
+        0
+        124
+        47
+        193
+        114
+        81
+        105
+        197
+        44
+        61
+        34
+        197
+        0
+        10
+        105
+        193
+        224
+        82
+        105
+        197
+        10
+        75
+        34
+        197
+        0
+        26
+        78
+        193
+        224
+        82
+        105
+        197
+        10
+        75
+        34
+        197
+        0
+        26
+        78
+        193
+        224
+        82
+        105
+        197
+        10
+        75
+        34
+        197
+        0
+        34
+        58
+        193
+        80
+        81
+        105
+        197
+        44
+        61
+        34
+        197
+        0
+        124
+        47
+        193
+        80
+        81
+        105
+        197
+        44
+        61
+        34
+        197
+        0
+        124
+        47
+        193
+        224
+        82
+        105
+        197
+        10
+        75
+        34
+        197
+        0
+        34
+        58
+        193
+        198
+        82
+        105
+        197
+        200
+        112
+        34
+        197
+        0
+        92
+        58
+        193
+        74
+        252
+        104
+        197
+        70
+        247
+        34
+        197
+        0
+        122
+        34
+        193
+        42
+        252
+        104
+        197
+        68
+        156
+        34
+        197
+        0
+        84
+        34
+        193
+        210
+        29
+        105
+        197
+        196
+        156
+        34
+        197
+        0
+        46
+        17
+        193
+        190
+        217
+        104
+        197
+        200
+        156
+        34
+        197
+        0
+        20
+        46
+        193
+        42
+        252
+        104
+        197
+        68
+        156
+        34
+        197
+        0
+        84
+        34
+        193
+        74
+        252
+        104
+        197
+        70
+        247
+        34
+        197
+        0
+        122
+        34
+        193
+        74
+        252
+        104
+        197
+        70
+        247
+        34
+        197
+        0
+        122
+        34
+        193
+        2
+        218
+        104
+        197
+        224
+        194
+        34
+        197
+        0
+        220
+        45
+        193
+        190
+        217
+        104
+        197
+        200
+        156
+        34
+        197
+        0
+        20
+        46
+        193
+        140
+        29
+        105
+        197
+        138
+        247
+        34
+        197
+        0
+        10
+        17
+        193
+        210
+        29
+        105
+        197
+        196
+        156
+        34
+        197
+        0
+        46
+        17
+        193
+        16
+        51
+        105
+        197
+        114
+        156
+        34
+        197
+        0
+        46
+        30
+        193
+        34
+        56
+        105
+        197
+        94
+        247
+        34
+        197
+        0
+        226
+        32
+        193
+        16
+        51
+        105
+        197
+        114
+        156
+        34
+        197
+        0
+        46
+        30
+        193
+        128
+        81
+        105
+        197
+        152
+        156
+        34
+        197
+        0
+        224
+        45
+        193
+        168
+        55
+        105
+        197
+        174
+        156
+        34
+        197
+        0
+        32
+        37
+        193
+        80
+        81
+        105
+        197
+        44
+        61
+        34
+        197
+        0
+        124
+        47
+        193
+        128
+        81
+        105
+        197
+        152
+        156
+        34
+        197
+        0
+        224
+        45
+        193
+        108
+        34
+        105
+        197
+        40
+        62
+        34
+        197
+        0
+        138
+        29
+        193
+        80
+        81
+        105
+        197
+        44
+        61
+        34
+        197
+        0
+        124
+        47
+        193
+        168
+        55
+        105
+        197
+        174
+        156
+        34
+        197
+        0
+        32
+        37
+        193
+        168
+        55
+        105
+        197
+        174
+        156
+        34
+        197
+        0
+        32
+        37
+        193
+        210
+        29
+        105
+        197
+        196
+        156
+        34
+        197
+        0
+        230
+        29
+        193
+        108
+        34
+        105
+        197
+        40
+        62
+        34
+        197
+        0
+        138
+        29
+        193
+        110
+        217
+        104
+        197
+        8
+        157
+        34
+        197
+        0
+        210
+        101
+        193
+        206
+        248
+        104
+        197
+        40
+        155
+        34
+        197
+        0
+        208
+        101
+        193
+        22
+        249
+        104
+        197
+        120
+        156
+        34
+        197
+        0
+        252
+        51
+        193
+        22
+        249
+        104
+        197
+        120
+        156
+        34
+        197
+        0
+        252
+        51
+        193
+        190
+        217
+        104
+        197
+        200
+        156
+        34
+        197
+        0
+        20
+        46
+        193
+        110
+        217
+        104
+        197
+        8
+        157
+        34
+        197
+        0
+        210
+        101
+        193
+        22
+        249
+        104
+        197
+        120
+        156
+        34
+        197
+        0
+        252
+        51
+        193
+        42
+        252
+        104
+        197
+        68
+        156
+        34
+        197
+        0
+        84
+        34
+        193
+        190
+        217
+        104
+        197
+        200
+        156
+        34
+        197
+        0
+        20
+        46
+        193
+        42
+        252
+        104
+        197
+        68
+        156
+        34
+        197
+        0
+        84
+        34
+        193
+        22
+        249
+        104
+        197
+        120
+        156
+        34
+        197
+        0
+        252
+        51
+        193
+        210
+        29
+        105
+        197
+        196
+        156
+        34
+        197
+        0
+        230
+        29
+        193
+        210
+        29
+        105
+        197
+        196
+        156
+        34
+        197
+        0
+        230
+        29
+        193
+        210
+        29
+        105
+        197
+        196
+        156
+        34
+        197
+        0
+        46
+        17
+        193
+        42
+        252
+        104
+        197
+        68
+        156
+        34
+        197
+        0
+        84
+        34
+        193
+        16
+        51
+        105
+        197
+        114
+        156
+        34
+        197
+        0
+        46
+        30
+        193
+        210
+        29
+        105
+        197
+        196
+        156
+        34
+        197
+        0
+        46
+        17
+        193
+        210
+        29
+        105
+        197
+        196
+        156
+        34
+        197
+        0
+        230
+        29
+        193
+        210
+        29
+        105
+        197
+        196
+        156
+        34
+        197
+        0
+        230
+        29
+        193
+        168
+        55
+        105
+        197
+        174
+        156
+        34
+        197
+        0
+        32
+        37
+        193
+        16
+        51
+        105
+        197
+        114
+        156
+        34
+        197
+        0
+        46
+        30
+        193
+        16
+        51
+        105
+        197
+        114
+        156
+        34
+        197
+        0
+        46
+        30
+        193
+        168
+        55
+        105
+        197
+        174
+        156
+        34
+        197
+        0
+        32
+        37
+        193
+        128
+        81
+        105
+        197
+        152
+        156
+        34
+        197
+        0
+        224
+        45
+        193
+        22
+        249
+        104
+        197
+        44
+        62
+        34
+        197
+        0
+        170
+        51
+        193
+        22
+        249
+        104
+        197
+        44
+        62
+        34
+        197
+        0
+        80
+        100
+        193
+        114
+        81
+        105
+        197
+        44
+        61
+        34
+        197
+        0
+        10
+        105
+        193
+        114
+        81
+        105
+        197
+        44
+        61
+        34
+        197
+        0
+        10
+        105
+        193
+        80
+        81
+        105
+        197
+        44
+        61
+        34
+        197
+        0
+        124
+        47
+        193
+        22
+        249
+        104
+        197
+        44
+        62
+        34
+        197
+        0
+        170
+        51
+        193
+        80
+        81
+        105
+        197
+        44
+        61
+        34
+        197
+        0
+        124
+        47
+        193
+        108
+        34
+        105
+        197
+        40
+        62
+        34
+        197
+        0
+        138
+        29
+        193
+        22
+        249
+        104
+        197
+        44
+        62
+        34
+        197
+        0
+        170
+        51
+        193
+        210
+        29
+        105
+        197
+        196
+        156
+        34
+        197
+        0
+        230
+        29
+        193
+        22
+        249
+        104
+        197
+        120
+        156
+        34
+        197
+        0
+        252
+        51
+        193
+        22
+        249
+        104
+        197
+        44
+        62
+        34
+        197
+        0
+        170
+        51
+        193
+        22
+        249
+        104
+        197
+        44
+        62
+        34
+        197
+        0
+        170
+        51
+        193
+        108
+        34
+        105
+        197
+        40
+        62
+        34
+        197
+        0
+        138
+        29
+        193
+        210
+        29
+        105
+        197
+        196
+        156
+        34
+        197
+        0
+        230
+        29
+        193
+        22
+        249
+        104
+        197
+        120
+        156
+        34
+        197
+        0
+        252
+        51
+        193
+        206
+        248
+        104
+        197
+        40
+        155
+        34
+        197
+        0
+        208
+        101
+        193
+        22
+        249
+        104
+        197
+        44
+        62
+        34
+        197
+        0
+        80
+        100
+        193
+        22
+        249
+        104
+        197
+        44
+        62
+        34
+        197
+        0
+        80
+        100
+        193
+        22
+        249
+        104
+        197
+        44
+        62
+        34
+        197
+        0
+        170
+        51
+        193
+        22
+        249
+        104
+        197
+        120
+        156
+        34
+        197
+        0
+        252
+        51
+        193
+        206
+        248
+        104
+        197
+        40
+        155
+        34
+        197
+        0
+        208
+        101
+        193
+        110
+        217
+        104
+        197
+        8
+        157
+        34
+        197
+        0
+        210
+        101
+        193
+        172
+        217
+        104
+        197
+        188
+        194
+        34
+        197
+        0
+        220
+        104
+        193
+        114
+        81
+        105
+        197
+        44
+        61
+        34
+        197
+        0
+        10
+        105
+        193
+        22
+        249
+        104
+        197
+        44
+        62
+        34
+        197
+        0
+        80
+        100
+        193
+        206
+        248
+        104
+        197
+        40
+        155
+        34
+        197
+        0
+        208
+        101
+        193
+        206
+        248
+        104
+        197
+        40
+        155
+        34
+        197
+        0
+        208
+        101
+        193
+        114
+        81
+        105
+        197
+        118
+        167
+        34
+        197
+        0
+        62
+        107
+        193
+        114
+        81
+        105
+        197
+        44
+        61
+        34
+        197
+        0
+        10
+        105
+        193
+        0
+        1
+        2
+        3
+        4
+        5
+        6
+        7
+        8
+        9
+        10
+        11
+        12
+        13
+        14
+        15
+        16
+        17
+        18
+        19
+        20
+        21
+        22
+        23
+        24
+        25
+        26
+        27
+        28
+        29
+        30
+        31
+        32
+        33
+        34
+        35
+        36
+        37
+        38
+        39
+        40
+        41
+        42
+        43
+        44
+        45
+        46
+        47
+        48
+        49
+        50
+        51
+        52
+        53
+        54
+        55
+        56
+        57
+        58
+        59
+        60
+        61
+        62
+        63
+        64
+        65
+        66
+        67
+        68
+        69
+        70
+        71
+        72
+        73
+        74
+        75
+        76
+        77
+        78
+        79
+        80
+        81
+        82
+        83
+        84
+        85
+        86
+        87
+        88
+        89
+        90
+        91
+        92
+        93
+        94
+        95
+        96
+        97
+        98
+        99
+        100
+        101
+        102
+        103
+        104
+        105
+        106
+        107
+        108
+        109
+        110
+        111
+        112
+        113
+        114
+        115
+        116
+        117
+        118
+        119
+        120
+        121
+        122
+        123
+        124
+        125
+        126
+        127
+        128
+        129
+        130
+        131
+        132
+        133
+        134
+        135
+        136
+        137
+        138
+        139
+        140
+      </verts>
+      <numVertsInBytes value="1692"/>
+      <numTris value="32815"/>
+      <flags value="0"/>
+    </Item>
+  </occludeModels>
+  <physicsDictionaries/>
+  <instancedData>
+    <ImapLink/>
+    <PropInstanceList/>
+    <GrassInstanceList/>
+  </instancedData>
+  <timeCycleModifiers/>
+  <UNK_MEMBER_0x8471928B/>
+  <UNK_MEMBER_0x4D4A0635/>
+  <carGenerators/>
+  <LODLightsSOA>
+    <direction/>
+    <falloff/>
+    <falloffExponent/>
+    <timeAndStateFlags/>
+    <hash/>
+    <coneInnerAngle/>
+    <coneOuterAngleOrCapExt/>
+    <coronaIntensity/>
+    <UNK_MEMBER_0xFFD167D6/>
+  </LODLightsSOA>
+  <DistantLODLightsSOA>
+    <position/>
+    <UNK_MEMBER_0x94720DEC/>
+    <intensity/>
+    <numStreetLights value="0"/>
+    <category value="0"/>
+    <UNK_MEMBER_0xFFEC781A/>
+    <hash/>
+  </DistantLODLightsSOA>
+  <block>
+    <version value="0"/>
+    <flags value="0"/>
+    <name>arm_01</name>
+    <exportedBy>kevin.saidla</exportedBy>
+    <owner/>
+    <time>14 August 2018 16:32</time>
+  </block>
+</CMapData>
