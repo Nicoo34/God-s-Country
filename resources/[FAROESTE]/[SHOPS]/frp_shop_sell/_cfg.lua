@@ -32,9 +32,8 @@ Config.ShopDatas = {
 			-- {"raw_coal", 100, 40, 2},
 			-- {"raw_iron", 200, 80, 2},
 			-- {"raw_copper", 300, 120, 2}
-			{"raw_coal", 100, 2},
-			{"raw_iron", 200, 2},
-			{"raw_copper", 300, 2}
+				{"raw_iron", 200, 2},
+				{"raw_copper", 300, 2}
 		}
 	}
 }

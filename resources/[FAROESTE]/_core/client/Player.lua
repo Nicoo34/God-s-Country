@@ -64,9 +64,6 @@ function cAPI.Initialize(pedModel, charAppearence, lastPosition, stats)
     TriggerServerEvent("FRP:RESPAWN:CheckDeath")
     TriggerServerEvent("API:pre_OnUserCharacterInitialization")
     
-    if not cAPI.isStartedNeeds() then
-        cAPI.startNeeds()
-    end
 end
 
 function cAPI.setPlayerAppearence(playerId)

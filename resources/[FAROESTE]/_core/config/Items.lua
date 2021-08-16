@@ -782,6 +782,13 @@ ItemList = {
         description = "Minerai de charbon déjà traité.",
         stackSize = 20
     },
+    ["coalbag"] = {
+        type = "generic",
+        name = "Sac de charbon",
+        weight = 3.0,
+        description = "Sac de charbon",
+        stackSize = 1
+    },
     ["log"] = {
         type = "generic",
         name = " Bûche de bois",

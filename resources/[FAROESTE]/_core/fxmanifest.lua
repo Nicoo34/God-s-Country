@@ -36,7 +36,6 @@ server_scripts {
 	"server/_Main.lua",
 	"server/Auth.lua",
 	"server/Gui.lua",
-	"server/BasicNeeds.lua",
 	-----------------------
 	"server/class/Slot.lua",
 	"server/class/Inventory.lua",
@@ -68,3 +67,8 @@ files {
 }
 
 ui_page "html/index.html"
+
+
+
+export 'getThirst'
+export 'getHunger'

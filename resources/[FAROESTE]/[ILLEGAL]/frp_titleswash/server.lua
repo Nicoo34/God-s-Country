@@ -15,20 +15,20 @@ AddEventHandler('FRP:TITLESWASH:washMoney', function()
 	local bankbag = 0
 	
 	accountMoney = Inventory:getItemAmount("titles")
-	bankbag = Inventory:getItemAmount("p_moneybag01x")
+	bankbag = Inventory:getItemAmount("moneybag")
 
 	rewardbank = math.random(200, 800)
 
 	if bankbag < 1 then
-		User:notify("error", "vous n'avez rien à échanger")
+		User:notify("error", "You have nothing to trade.")
 	else
 		Inventory:addItem("money", rewardbank)
-		Inventory:removeItem(-1, "p_moneybag01x", 1)
+		Inventory:removeItem(-1, "moneybag", 1)
 		User:notify("item", "money", rewardbank)
 	end 
 
 	if accountMoney < 99 then
-		User:notify("error", "vous n'avez rien à échanger.")
+		User:notify("error", "You have nothing to trade.")
 	else
 		Inventory:addItem("money", 50)
 		Inventory:removeItem(-1, "titles", 1)

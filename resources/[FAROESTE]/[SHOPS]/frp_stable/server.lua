@@ -22,6 +22,35 @@ AddEventHandler(
     end
 )
 
+RegisterNetEvent("FRP:STABLE:CheckSelectedHorse")
+AddEventHandler(
+    "FRP:STABLE:CheckSelectedHorse",
+    function()   
+        local _source = source
+        local User = API.getUserFromSource(_source)
+        local Character = User:getCharacter()
+        local Horses = Character:getHorses() or {}
+
+        if #horses <= 0 then
+            return
+        end
+
+        local Horse = Character:getHorse()
+        local selectedHorseId
+        if Horse ~= nil then
+            selectedHorseId = Horse:getId()
+        end
+
+        for _, data in pairs(horses) do
+            if selectedHorseId ~= nil and data.id == selectedHorseId then
+                data.selected = true
+                TriggerClientEvent("FRP:HORSE:SetHorseInfo", _source, horses[i].model, horses[i].name, horses[i].components)
+            end
+            data.charid = nil
+        end
+     end
+)
+
 RegisterNetEvent("FRP:STABLE:AskForMyHorses")
 AddEventHandler(
     "FRP:STABLE:AskForMyHorses",

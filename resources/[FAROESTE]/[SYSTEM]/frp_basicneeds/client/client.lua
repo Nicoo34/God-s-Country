@@ -96,13 +96,13 @@ AddEventHandler(
 
 function DirectionHeading(heading)
     if ((heading >= 0 and heading < 45) or (heading >= 315 and heading < 360)) then
-        return "Nord" 
+        return "Norte" 
     elseif (heading >= 45 and heading < 135) then
-        return "Ouest" 
+        return "Oeste" 
     elseif (heading >= 135 and heading < 225) then
-        return "Sud"
+        return "Sul"
     elseif (heading >= 225 and heading < 315) then
-        return "Est" 
+        return "Leste" 
     end
 end
 
@@ -192,7 +192,7 @@ Citizen.CreateThread(function()
     while true do
         Citizen.Wait(500)
 
-        if IsControlJustReleased(1, 0x446258B6) then
+        if IsControlJustReleased(1, 0x26E9DC00) then
 
             if isTokovoip == true then
 
@@ -281,9 +281,9 @@ Citizen.CreateThread(function()
         elseif GetDistanceBetweenCoords(Coords.x, Coords.y, Coords.z, Town["Locaties"][8]["X"], Town["Locaties"][8]["Y"], Town["Locaties"][8]["Z"], true) <= 75.0 then
             location = 'Van Horn'
         elseif GetDistanceBetweenCoords(Coords.x, Coords.y, Coords.z, Town["Locaties"][9]["X"], Town["Locaties"][9]["Y"], Town["Locaties"][9]["Z"], true) <= 100.0 then
-            location = 'Annesburg'
+            location = 'Annerburg'
         else
-            location = 'Inconnu'
+            location = 'Desconhecido'
         end
     end
 end)

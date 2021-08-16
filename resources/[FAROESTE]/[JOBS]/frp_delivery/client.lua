@@ -202,26 +202,7 @@ Citizen.CreateThread(function() --Thread lancement + livraison depuis le marker 
               goliv(livpt,livr)
               nbDelivery = 5
 
-        --      TriggerServerEvent("FRP:DELIVERY:itemadd", nbDelivery)
-
-           --[[ else
-              notifmoto1 = true
-              while notifmoto1 == true do                
-                TriggerEvent('FRP:NOTIFY:Simple', 'Cadê a carroça?', 10000)
-              notifmoto1 = false
-              end
-            end ]]
-          end
-      --[[  else     
-          while notifmoto2 == true do
-            TriggerEvent('FRP:NOTIFY:Simple', 'Cadê a carroça?', 10000)
-            notifmoto2 = false
-          end
-        end ]]
-      end
-
-
-
+    
 
     end
     if IsEntityDead(PlayerPedId()) then
@@ -276,7 +257,7 @@ Citizen.CreateThread(function() -- Thread de "fin de service" depuis le point ro
 
             TriggerEvent('FRP:NOTIFY:Simple', 'Merci pour vos services.', 10000)
 
-           -- TriggerServerEvent("FRP:DELIVERY:paiefinale")
+
 
             SetWaypointOff()
 

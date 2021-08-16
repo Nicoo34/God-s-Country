@@ -7,10 +7,13 @@ games {'rdr3'}
 
 client_scripts { 
     '@_core/lib/utils.lua',
-    "client2.lua"
+    'client.lua',
+    'config.lua'
+
 }
 
 server_scripts { 
     '@_core/lib/utils.lua',
-    'server.lua'
+    'server.lua',
+    'config.lua'
 }

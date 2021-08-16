@@ -14,7 +14,7 @@ local data = {
     [3] = {
         staticName = "Banque de Rhodes",
         staticReward = 20,
-        staticSecondsToReward = 20,
+        staticSecondsToReward = 10 * 60,
         staticMaxParticipants = 3
     }
 }
@@ -68,6 +68,11 @@ AddEventHandler(
         local numParticipantsToCheck = #participants
 
         countdownRobberyTime()
+        local a = Inventory:getItemAmount("dynamite")
+        local ItemData = API.getItemDataFromId("dynamite")
+        if a <= 0 then
+            User:notify("error", "Tu n'as pas de dynamite " .. ItemData:getName())
+        else
 
         for _, playerSource in pairs(GetPlayers()) do
             playerSource = tonumber(playerSource)
@@ -89,11 +94,11 @@ AddEventHandler(
                     end
                 end
             end
-
+        
             if isParticipant == false then
                 TriggerClientEvent("FRP:ROBBERY:StartRobbery", playerSource, index, false, nil)
             end
-
+        end
             isParticipant = nil
         end
 
@@ -161,9 +166,9 @@ function endRobberyGiveReward()
 
         if Character ~= nil then
             local reward = math.random(10, data[indexBeingRobbed].staticReward)
-            Character:getInventory():addItem("p_moneybag01x", reward)
+            Character:getInventory():addItem("moneybag", reward)
             -- User:notify("success", "Você recebeu R$ " .. reward .. " pelo assalto")
-            User:notify("item", "p_moneybag01x", reward)
+            User:notify("item", "moneybag", reward)
         end
     end
 

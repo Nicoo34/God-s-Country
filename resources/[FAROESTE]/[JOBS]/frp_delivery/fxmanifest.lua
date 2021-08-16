@@ -1,16 +1,15 @@
-fx_version 'adamant'
-
+fx_version "adamant"
+games {"rdr3"}
 rdr3_warning 'I acknowledge that this is a prerelease build of RedM, and I am aware my resources *will* become incompatible once RedM ships.'
 
-games {'rdr3'}
-
-
-client_scripts { 
+client_scripts {
     '@_core/lib/utils.lua',
-    "client.lua"
+    'client/client.lua'
 }
 
-server_scripts { 
+server_scripts {
     '@_core/lib/utils.lua',
-    "server.lua"
+    'server/server.lua'
 }
+
+

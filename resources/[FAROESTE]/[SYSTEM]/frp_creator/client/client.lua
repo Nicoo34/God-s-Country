@@ -447,7 +447,7 @@ RegisterNUICallback(
         if data.id == 0 then
             EyebrowsUsing = 0
             GetPedHeadOverlayData(PlayerPedId(), 1)
-            N_0x5653ab26c82938cf(pedSelected, 0xD266, value) -- Set target category, here the hash is for hats
+            Citizen.N_0x5653ab26c82938cf(pedSelected, 0xD266, value) -- Set target category, here the hash is for hats
             Citizen.InvokeNative(0xCC8CA3E88256E58F, pedSelected, 0, 1, 1, 1, 0) -- Actually remove the component
         else
             if sex == "mp_male" then
