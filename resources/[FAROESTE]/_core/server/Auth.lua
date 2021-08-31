@@ -57,7 +57,7 @@ Queue.OnReady(
                             allow("error: Vous êtes banni!")
                         end
                     else
-                        allow("error: Tu n'es pas whitelist. \n Contactez un staff: " .. user_id .. " \n discord.gg/7UGuKHDbYh")
+                        allow("error: Tu n'es pas whitelist. \n Contactez un staff: " .. user_id .. " \n discord.gg/notopenedyet")
                         end
                 else
                     allow("error: Impossible de trouver ou de créer votre compte, contactez un STAFF!")
