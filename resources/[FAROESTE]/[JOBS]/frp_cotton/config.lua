@@ -1,24 +1,24 @@
 Config = {}
 
 Config.Recolte =  {
-    vector3(2760.228,1308.187,69.95)
+    vector3(1429.192,-1278.992,78.052)
 
 }
 
 Config.Traitement = {
-    vector3(2889.288,1399.789,64.943)
+    vector3(1412.027,-1283.598,80.984)
 
 }
 
 
 Config.Transformation = {
 
-    vector3(2957.079,1377.294,56.254)
+    vector3(1402.925,-1302.901,77.782)
 
 }
 
 
 Config.Revente = {
-    vector3(3016.469,1349.540,42.771)
+    vector3(2608.134,-1453.183,46.643)
 }
 
