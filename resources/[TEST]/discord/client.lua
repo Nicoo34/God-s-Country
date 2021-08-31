@@ -9,13 +9,8 @@ Citizen.CreateThread(function()
         -- (11-11-2018) New Natives:
 
         -- Here you can add hover text for the "large" icon.
-        SetDiscordRichPresenceAssetText('This is a lage icon with text')
+        SetDiscordRichPresenceAssetText('God\'s country RP')
        
-        -- Here you will have to put the image name for the "small" icon.
-        SetDiscordRichPresenceAssetSmall('logo_name')
-
-        -- Here you can add hover text for the "small" icon.
-        SetDiscordRichPresenceAssetSmallText('This is a lsmall icon with text')
 
 
         -- (26-02-2021) New Native:
@@ -25,8 +20,8 @@ Citizen.CreateThread(function()
             First paramater is the button index (0 or 1), second is the title and 
             last is the url (this has to start with "fivem://connect/" or "https://") 
         ]]--
-        SetDiscordRichPresenceAction(0, "First Button!", "fivem://connect/localhost:30120")
-        SetDiscordRichPresenceAction(1, "Second Button!", "fivem://connect/localhost:30120")
+        SetDiscordRichPresenceAction(0, "Rejoindre", "redm://connect/localhost:30120")
+        SetDiscordRichPresenceAction(1, "Discord", "https://discord.com/invite/mrrrtVv4UM")
 
         -- It updates every minute just in case.
 		Citizen.Wait(60000)
