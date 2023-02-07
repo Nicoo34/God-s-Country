@@ -1,5 +1,4 @@
 # God-s-Country
 
 
-DVR's Design
-https://streamable.com/qwgaln
+![DVR's Design](https://s9.gifyu.com/images/dvr.gif) 
